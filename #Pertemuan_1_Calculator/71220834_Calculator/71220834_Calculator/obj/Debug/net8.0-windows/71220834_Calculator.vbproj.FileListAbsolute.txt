@@ -1,0 +1,16 @@
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\_71220834_Calculator.Calculator.resources
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\bin\Debug\net8.0-windows\71220834_Calculator.exe
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\bin\Debug\net8.0-windows\71220834_Calculator.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\bin\Debug\net8.0-windows\71220834_Calculator.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\bin\Debug\net8.0-windows\71220834_Calculator.dll
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\bin\Debug\net8.0-windows\71220834_Calculator.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.dll
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\refint\71220834_Calculator.dll
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\71220834_Calculator.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_Calculator\71220834_Calculator\obj\Debug\net8.0-windows\ref\71220834_Calculator.dll
