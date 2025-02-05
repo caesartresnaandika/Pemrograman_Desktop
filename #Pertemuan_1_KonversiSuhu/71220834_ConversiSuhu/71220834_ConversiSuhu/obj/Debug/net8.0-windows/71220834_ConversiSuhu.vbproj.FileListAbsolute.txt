@@ -1,0 +1,16 @@
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\_71220834_ConversiSuhu.KonversiSuhu.resources
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\bin\Debug\net8.0-windows\71220834_ConversiSuhu.exe
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\bin\Debug\net8.0-windows\71220834_ConversiSuhu.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\bin\Debug\net8.0-windows\71220834_ConversiSuhu.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\bin\Debug\net8.0-windows\71220834_ConversiSuhu.dll
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\bin\Debug\net8.0-windows\71220834_ConversiSuhu.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.dll
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\refint\71220834_ConversiSuhu.dll
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\71220834_ConversiSuhu.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\71220834_ConversiSuhu\71220834_ConversiSuhu\obj\Debug\net8.0-windows\ref\71220834_ConversiSuhu.dll
