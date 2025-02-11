@@ -1,0 +1,16 @@
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.exe
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.dll
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\bin\Debug\net8.0-windows\MineSweeper.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.Form1.resources
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.dll
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\refint\MineSweeper.dll
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\MineSweeper.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\MineSweeper\MineSweeper\obj\Debug\net8.0-windows\ref\MineSweeper.dll
