@@ -1,0 +1,16 @@
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.Jackpot.resources
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.exe
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\refint\Jackpot.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Jackpot\Jackpot\obj\Debug\net8.0-windows\ref\Jackpot.dll
