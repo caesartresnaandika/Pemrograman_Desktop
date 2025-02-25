@@ -1,0 +1,19 @@
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\bin\Debug\net8.0-windows\Utility Image Viewer.exe
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\bin\Debug\net8.0-windows\Utility Image Viewer.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\bin\Debug\net8.0-windows\Utility Image Viewer.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\bin\Debug\net8.0-windows\Utility Image Viewer.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\bin\Debug\net8.0-windows\Utility Image Viewer.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility_Image_Viewer.Form1.resources
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\refint\Utility Image Viewer.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\ref\Utility Image Viewer.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\bin\Debug\net8.0-windows\gma.Drawing.ImageInfo.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility Image Viewer.vbproj.AssemblyReference.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Utility Image Viewer\Utility Image Viewer\obj\Debug\net8.0-windows\Utility .D4ACD4BA.Up2Date
