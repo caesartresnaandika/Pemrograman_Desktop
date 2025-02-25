@@ -1,0 +1,17 @@
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\bin\Debug\net8.0-windows\TextEditor_GUI1.exe
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\bin\Debug\net8.0-windows\TextEditor_GUI1.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\bin\Debug\net8.0-windows\TextEditor_GUI1.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\bin\Debug\net8.0-windows\TextEditor_GUI1.dll
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\bin\Debug\net8.0-windows\TextEditor_GUI1.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.Form1.resources
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.Resources.resources
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.dll
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\refint\TextEditor_GUI1.dll
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\TextEditor_GUI1.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\TextEditor_GUI1\TextEditor_GUI1\obj\Debug\net8.0-windows\ref\TextEditor_GUI1.dll
