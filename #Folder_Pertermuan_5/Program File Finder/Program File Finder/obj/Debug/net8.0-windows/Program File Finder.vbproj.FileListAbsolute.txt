@@ -1,0 +1,16 @@
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program_File_Finder.Form1.resources
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\bin\Debug\net8.0-windows\Program File Finder.exe
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\bin\Debug\net8.0-windows\Program File Finder.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\bin\Debug\net8.0-windows\Program File Finder.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\bin\Debug\net8.0-windows\Program File Finder.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\bin\Debug\net8.0-windows\Program File Finder.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\refint\Program File Finder.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\Program File Finder.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Program File Finder\Program File Finder\obj\Debug\net8.0-windows\ref\Program File Finder.dll
