@@ -1,0 +1,193 @@
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+E:\Projects\Visual Studio Projects\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+J:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+J:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+J:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbprojResolveAssemblyReference.cache
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+J:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.Cache
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+E:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+E:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+E:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbprojResolveAssemblyReference.cache
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+E:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.Cache
+G:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+G:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+G:\dosen\gui\program\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbprojResolveAssemblyReference.cache
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+G:\dosen\gui\program\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.Cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe.config
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ParkirApp.exe
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ParkirApp.pdb
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ParkirApp.xml
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.AssemblyReference.cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.Up2Date
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.exe
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.xml
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.pdb
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\stdole.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\obj\x86\Debug\ParkirApp.frmReport.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\ParkirApp\ParkirApp\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ParkirApp.exe.config
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ParkirApp.exe
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ParkirApp.pdb
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ParkirApp.xml
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\stdole.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.AssemblyReference.cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.frmReport.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.frmUtama.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.frmLangganan.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.frmProfil.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.frmLogin.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.Resources.resources
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.vbproj.Up2Date
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.exe
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.xml
+C:\Users\LENOVO_THINKPAD\OneDrive\Documents\SEMESTER 6\Pemrograman Desktop\71220834_Pertemuan9\ParkirApp\obj\x86\Debug\ParkirApp.pdb
