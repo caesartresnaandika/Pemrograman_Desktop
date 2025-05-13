@@ -1,0 +1,17 @@
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\bin\Debug\net8.0-windows\Aplikasi Paint Vektor.exe
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\bin\Debug\net8.0-windows\Aplikasi Paint Vektor.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\bin\Debug\net8.0-windows\Aplikasi Paint Vektor.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\bin\Debug\net8.0-windows\Aplikasi Paint Vektor.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\bin\Debug\net8.0-windows\Aplikasi Paint Vektor.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi_Paint_Vektor.Form1.resources
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi_Paint_Vektor.Resources.resources
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\refint\Aplikasi Paint Vektor.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\Aplikasi Paint Vektor.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Aplikasi Paint Vektor\Aplikasi Paint Vektor\obj\Debug\net8.0-windows\ref\Aplikasi Paint Vektor.dll
