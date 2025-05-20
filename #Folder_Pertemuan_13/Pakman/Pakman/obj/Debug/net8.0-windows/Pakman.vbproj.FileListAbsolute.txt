@@ -1,0 +1,16 @@
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.exe
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.deps.json
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.runtimeconfig.json
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.Form1.resources
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.GenerateResource.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfoInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfo.vb
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\refint\Pakman.dll
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.pdb
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.genruntimeconfig.cache
+C:\Users\LENOVO_THINKPAD\source\repos\Pakman\Pakman\obj\Debug\net8.0-windows\ref\Pakman.dll
